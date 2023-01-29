@@ -66,4 +66,6 @@
 Developed with ❤️ from Indonesia 🇮🇩
 </p>
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
 ![Snake animation](https://github.com/ophaant/ophaant/blob/output/github-contribution-grid-snake.svg)
